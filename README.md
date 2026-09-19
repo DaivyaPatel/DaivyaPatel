@@ -5,8 +5,7 @@ I'm Daivya
 -  I'm currently learning: RTOS (FreeRTOS), embedded Linux, and OS internals
 -  Languages & tools: C, C++, Python
 -  Ask me about: embedded systems, firmware, systems programming
--  Reach me at: [your email or LinkedIn]
-
+-  Reach me at: daivyapatel220@gmail.com
 ---
 
 ### Featured Projects
