@@ -1,16 +1,21 @@
-## Hi there 👋
+I'm Daivya
 
-<!--
-**DaivyaPatel/DaivyaPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  Third-year Computer Engineering student, focused on embedded systems, firmware, and low-level programming
+-  I'm currently working on: static binary analysis tooling
+-  I'm currently learning: RTOS (FreeRTOS), embedded Linux, and OS internals
+-  Languages & tools: C, C++, Python
+-  Ask me about: embedded systems, firmware, systems programming
+-  Reach me at: [your email or LinkedIn]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+**ELF Binary Analyzer**
+Full-stack platform for static analysis of ELF binaries — entropy analysis, security mitigation checks, and symbol table inspection.
+
+**Chaos-Based Hybrid Encryption (ACCM)**
+Post-quantum-ready encryption scheme for IIoT power grid security, combining Kyber/Dilithium KEM with chaos-based masking and LSTM-based anomaly detection. Indian patent application filed.
+
+**Satellite Frame Interpolation**
+Deep learning model (RIFE-based architecture) for interpolating frames in satellite video footage.
