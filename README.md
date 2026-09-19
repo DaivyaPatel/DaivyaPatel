@@ -1,4 +1,4 @@
-I'm Daivya
+I'm Daivya, here's some info about me
 
 -  Third-year Computer Engineering student, focused on embedded systems, firmware, and low-level programming
 -  I'm currently working on: static binary analysis tooling
