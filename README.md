@@ -11,7 +11,7 @@ I'm Daivya, here's some info about me;
 ### Featured Projects
 
 **ELF Binary Analyzer**
-Full-stack platform for static analysis of ELF binaries — entropy analysis, security mitigation checks, and symbol table inspection.
+Platform for static analysis of ELF binaries - entropy analysis, security mitigation checks, and symbol table inspection.
 
 **Chaos-Based Hybrid Encryption (ACCM)**
 Post-quantum-ready encryption scheme for IIoT power grid security, combining Kyber/Dilithium KEM with chaos-based masking and LSTM-based anomaly detection. Indian patent application filed.
